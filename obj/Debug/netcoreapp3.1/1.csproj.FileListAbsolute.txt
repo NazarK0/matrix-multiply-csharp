@@ -1,0 +1,11 @@
+/home/nazar91/Projects/algorithms/labs/1/1/bin/Debug/netcoreapp3.1/1
+/home/nazar91/Projects/algorithms/labs/1/1/bin/Debug/netcoreapp3.1/1.deps.json
+/home/nazar91/Projects/algorithms/labs/1/1/bin/Debug/netcoreapp3.1/1.runtimeconfig.json
+/home/nazar91/Projects/algorithms/labs/1/1/bin/Debug/netcoreapp3.1/1.runtimeconfig.dev.json
+/home/nazar91/Projects/algorithms/labs/1/1/bin/Debug/netcoreapp3.1/1.dll
+/home/nazar91/Projects/algorithms/labs/1/1/bin/Debug/netcoreapp3.1/1.pdb
+/home/nazar91/Projects/algorithms/labs/1/1/obj/Debug/netcoreapp3.1/1.csprojAssemblyReference.cache
+/home/nazar91/Projects/algorithms/labs/1/1/obj/Debug/netcoreapp3.1/1.AssemblyInfoInputs.cache
+/home/nazar91/Projects/algorithms/labs/1/1/obj/Debug/netcoreapp3.1/1.AssemblyInfo.cs
+/home/nazar91/Projects/algorithms/labs/1/1/obj/Debug/netcoreapp3.1/1.dll
+/home/nazar91/Projects/algorithms/labs/1/1/obj/Debug/netcoreapp3.1/1.pdb
